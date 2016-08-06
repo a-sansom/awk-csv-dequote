@@ -1,0 +1,9 @@
+#
+# Configuration of CSV record type and their field indexes to dequote via
+# dequote.awk. Field indexes are 1-based.
+# 
+
+# TYPE_1 records to dequote second and fourth fields.
+TYPE_1=2,4
+# TYPE_2 records to dequote third, fourth and fifth fields. 
+TYPE_2=3,4,5

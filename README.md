@@ -35,4 +35,4 @@ The result is:
     "TYPE_1",\"k\","l",m,"n","o"
     "TYPE_3","k","l","m","n","o"
 
-For more information, both `debug-config` and `dequote.awk` are commented.
+For more information, both `dequote-config` and `dequote.awk` are commented.
